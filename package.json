@@ -1,0 +1,19 @@
+{
+  "name": "object-composition-playground",
+  "version": "1.0.0",
+  "description": "A repository made for playing with object composition in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donbernar/object-composition-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donbernar/object-composition-playground/issues"
+  },
+  "homepage": "https://github.com/donbernar/object-composition-playground#readme"
+}
